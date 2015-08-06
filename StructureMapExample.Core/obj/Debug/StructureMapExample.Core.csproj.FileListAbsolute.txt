@@ -2,6 +2,5 @@ C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\Structur
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Core\bin\Debug\StructureMapExample.Core.pdb
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Core\bin\Debug\Microsoft.Web.Infrastructure.dll
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Core\bin\Debug\WebActivatorEx.dll
-C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Core\obj\Debug\StructureMapExample.Core.csprojResolveAssemblyReference.cache
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Core\obj\Debug\StructureMapExample.Core.dll
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Core\obj\Debug\StructureMapExample.Core.pdb

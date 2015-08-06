@@ -6,11 +6,11 @@ using StructureMapExample.Core;
 
 namespace StructureMapExample.Data
 {
-    public class SampleClassAAA// : ISampleClass
+    public class SampleClass : ISampleClass
     {
         public string GetAString()
         {
-            return "Hey look it's a string!";
+            return "Hey look it's a string from the data layer!";
         }
     }
 }

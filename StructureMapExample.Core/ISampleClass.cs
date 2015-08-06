@@ -9,11 +9,4 @@ namespace StructureMapExample.Core
     {
         string GetAString();
     }
-    public class SampleClass : ISampleClass
-    {
-        public string GetAString()
-        {
-            return "Hey look it's a string!";
-        }
-    }
 }

@@ -1,5 +1,5 @@
-C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.DependencyResolution\obj\Debug\StructureMapExample.DependencyResolution.csprojResolveAssemblyReference.cache
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Web\bin\StructureMapExample.DependencyResolution.dll
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.Web\bin\StructureMapExample.DependencyResolution.pdb
+C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.DependencyResolution\obj\Debug\StructureMapExample.DependencyResolution.csprojResolveAssemblyReference.cache
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.DependencyResolution\obj\Debug\StructureMapExample.DependencyResolution.dll
 C:\Users\slee\Documents\Visual Studio 2013\Projects\StructureMapExample\StructureMapExample.DependencyResolution\obj\Debug\StructureMapExample.DependencyResolution.pdb
